@@ -1,5 +1,5 @@
-# ML_workshop
-material and notes for my ML workshop
+# Machine Learning workshop
+material and notes for my **ML workshop**, from "almost not a programmer" to "implementing machine learning pipelines"
 
 ## Slides:
 
@@ -31,8 +31,9 @@ material and notes for my ML workshop
 
 [pandas: sanity checking and plotting](https://drive.google.com/open?id=1Hho4IN22hxjJ6fDopFfI9os-xofd7t2m)
 
-
 [Start to end project: linear regression of California house costs](https://drive.google.com/open?id=1E0kEU75Z-HZp5-oLxGnV0LBEcW3g2M1g)
+
+[Start to end classification projects](https://drive.google.com/open?id=1IH5UmBGT-6ehWpxYycy_WvQE0qMAR68D)
 
 [Start to end: classification on the Titanic](https://drive.google.com/open?id=1AjbuTxfxnhVviN0qiRLJNh_J70hhUWIS)
 
@@ -42,12 +43,17 @@ material and notes for my ML workshop
 
 [Preprocessing PDFs](https://drive.google.com/open?id=1mbJII3fbVaCXZIC-Oo-kOnZ8JvQ1Gqzm)
 
+[Basic NLP](https://drive.google.com/open?id=1GJmlWcbQsFyrf3vxTdQpv6CXXRIHkhEb)
+
+[Neural Networks: using fashion](https://drive.google.com/open?id=1qzeGTz_ZuFdGBtsNNAOYRnENu_Xa61Hr)
+
+[Convolutional Neural Networks, and transfer learning](https://colab.research.google.com/drive/1_Gf9ofoe4BTBNXYhRhv8Vz8n7ciHPTzj#scrollTo=L5EORWU-hchv)
+
 [Convolution](https://drive.google.com/file/d/16X-Mk7WMeIrjZ7kOhFO7Q4di3SgRmOVu/view?usp=sharing)
 
 [Rock Paper Scissors with CNN](https://drive.google.com/open?id=1oQJHF7WDsdfl_vhF22MJW5rOew7xPFsN)
 
 [Cats vs. Dogs with CNN](https://drive.google.com/open?id=1Cihy9Dlt_4BMIKvsej8Ut0E3USj4V2hK)
-
 
 
 Advanced notebooks, to show what's possible
