@@ -1,4 +1,6 @@
-Keeping up with the bleeding edge
+# Useful resources
+
+### Keeping up with the bleeding edge:
 
 [Tracking the Progress in Natural Language Processing](https://ruder.io/tracking-progress-nlp/)
 
@@ -6,14 +8,14 @@ https://nlpprogress.com/
 
 https://github.com/sebastianruder/NLP-progress
 
-Videos:
+### Videos:
 
 [Deep Learning: A Crash Course](https://www.youtube.com/watch?v=r0Ogt-q956I&t=1868s)
 
 [Machine Learning Zero to Hero (Google I/O'19)](https://www.youtube.com/watch?v=VwVg9jCtqaU)
 
 
-Books:
+### Books:
 
 ![dd8b88e683eb3e2ebf5666cb2cd95018.png](img/dd8b88e683eb3e2ebf5666cb2cd95018.png)
 
