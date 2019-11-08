@@ -7,6 +7,8 @@ material and notes for my **ML workshop**, from "almost not a programmer" to "im
 ![8eae067db63ecc2ff34a01c9b48c8cfd.png](8eae067db63ecc2ff34a01c9b48c8cfd.png)
 
 
+[More resources](resources.md)
+
 ## Slides:
 
 [1a - Introduction to ML](https://docs.google.com/presentation/d/1bgCRv2NeC34hkCiJZgzoUI1QPfreSnJ-XCWKUBb2hgY/edit?usp=sharing) Intro to the workshop, expectations, calibration
