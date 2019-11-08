@@ -2,6 +2,10 @@
 
 ### Keeping up with the bleeding edge:
 
+[AI Progress Measurement](https://www.eff.org/ai/metrics)
+
+[Papers with Code](https://paperswithcode.com/)
+
 [Tracking the Progress in Natural Language Processing](https://ruder.io/tracking-progress-nlp/)
 
 https://nlpprogress.com/
