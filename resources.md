@@ -17,13 +17,13 @@ https://github.com/sebastianruder/NLP-progress
 
 ### Books:
 
-![dd8b88e683eb3e2ebf5666cb2cd95018.png](img/dd8b88e683eb3e2ebf5666cb2cd95018.png)
+![dd8b88e683eb3e2ebf5666cb2cd95018.png](img/ds-from-scratch.png)
 
 https://github.com/joelgrus/data-science-from-scratch
 
 https://www.oreilly.com/library/view/data-science-from/9781492041122/
 
-![fc9b5f4499dc3aecc5870ab9cbaab43f.png](img/fc9b5f4499dc3aecc5870ab9cbaab43f.png)
+![fc9b5f4499dc3aecc5870ab9cbaab43f.png](img/handson.png)
 
 https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/
 
