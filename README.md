@@ -3,6 +3,7 @@ material and notes for my **ML workshop**, from "almost not a programmer" to "im
 
 ### [https://github.com/ischender/ML_workshop](https://github.com/ischender/ML_workshop)
 
+
 ![8eae067db63ecc2ff34a01c9b48c8cfd.png](8eae067db63ecc2ff34a01c9b48c8cfd.png)
 
 
