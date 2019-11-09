@@ -49,6 +49,8 @@ material and notes for my **ML workshop**, from "almost not a programmer" to "im
 
 [Advanced classification, dimension reduction, faces, SVM](https://drive.google.com/open?id=1nf9GlisyOfVa4uWZ0ggzR-ST3G9GPjE6)
 
+[Basic Neural Nets in Keras](https://drive.google.com/file/d/1RAnWRipCU6Mts52_Eck8Bh66BnN-GEbe/view?usp=sharing)
+
 [Preprocessing PDFs](https://drive.google.com/open?id=1mbJII3fbVaCXZIC-Oo-kOnZ8JvQ1Gqzm)
 
 [Basic NLP](https://drive.google.com/open?id=1GJmlWcbQsFyrf3vxTdQpv6CXXRIHkhEb)
