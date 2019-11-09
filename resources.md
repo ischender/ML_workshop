@@ -28,6 +28,8 @@ The [scikit-learn Tutorials](https://scikit-learn.org/stable/tutorial/index.html
 
 The [NLTK manual](https://www.nltk.org/book/) is a good intro to NLP. After that, the [Spacy 101](https://spacy.io/usage/spacy-101) is a good follow up.
 
+The [Pandas manual](https://pandas.pydata.org/pandas-docs/stable/) is a good resource. [10 min to Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html) is a good start.
+
 ### Finding help:
 
 Mostly [Stack Overflow](https://stackoverflow.com/). And google...
