@@ -13,17 +13,20 @@ material and notes for my **ML workshop**, from "almost not a programmer" to "im
 
 [1a - Introduction to ML](https://docs.google.com/presentation/d/1bgCRv2NeC34hkCiJZgzoUI1QPfreSnJ-XCWKUBb2hgY/edit?usp=sharing) Intro to the workshop, expectations, calibration
 
-
-
 [1c - from There to Here](https://docs.google.com/presentation/d/128NkkqKxHlImhGgoqzbRRKTWzU37yHlVFONF0P0_M28/edit?usp=sharing)
 
 [2a - ML concepts](https://docs.google.com/presentation/d/15CzHF0q7uQZAfVYmzoufjqpPeirUy3yY9mpwMUYyxpM/edit?usp=sharing)
 
-[2c-Neural networks and Deep learning basics](https://docs.google.com/presentation/d/19PjGWFZCaPgMPdy6fR0HEJrUQf1D424LXwWfW83d2QI/edit?usp=sharing)
+[2c - Neural networks and Deep learning basics](https://docs.google.com/presentation/d/19PjGWFZCaPgMPdy6fR0HEJrUQf1D424LXwWfW83d2QI/edit?usp=sharing)
 
-[3a-Real Data in the Wild](https://docs.google.com/presentation/d/1GFgR4P4eMUDh3AU0Zx8CCkY64J_tDv4YLIbg3J_k9IY/edit?usp=sharing)
+[2d - NLP](https://docs.google.com/presentation/d/1hBUvv5EWLvUQKwvsF8tAIxkWMJhJG7N-m_0EdyWlEHM/edit?usp=sharing)
 
-[3a - NLP](https://docs.google.com/presentation/d/1hBUvv5EWLvUQKwvsF8tAIxkWMJhJG7N-m_0EdyWlEHM/edit?usp=sharing)
+[3a - Bleeding Edge & Transfer Learning
+](https://docs.google.com/presentation/d/1K9T1WiFZ-87QlGt5ZVujIjkhh8uqTBzCAzDsuvoPUy0/edit#slide=id.g6afc4ad9aa_0_599)
+
+[3c - Recap](https://docs.google.com/presentation/d/1BjSl52EuO7FYXWHauvLpcfFtcoNY9HqGkMGsAAm2ObU/edit?usp=sharing) 
+
+[3a - Real Data in the Wild](https://docs.google.com/presentation/d/1GFgR4P4eMUDh3AU0Zx8CCkY64J_tDv4YLIbg3J_k9IY/edit?usp=sharing)
 
 
 ## Colab notebooks
