@@ -39,19 +39,24 @@ Mostly [Stack Overflow](https://stackoverflow.com/). And google...
 
 #### My favorite books re: ML and Data Science in 2019
 
-![dd8b88e683eb3e2ebf5666cb2cd95018.png](img/ds-from-scratch.png)
+![data science from scratch](img/ds-from-scratch.png)
 
 [Github repo](https://github.com/joelgrus/data-science-from-scratch)
 
 https://www.oreilly.com/library/view/data-science-from/9781492041122/
 
-![fc9b5f4499dc3aecc5870ab9cbaab43f.png](img/handson.png)
+![hands-on](img/handson.png)
 
 [Github Repo](https://github.com/ageron/handson-ml2)
 
 https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/
 
 #### Books about other topics:
+
+**The Art of Statistics**
+
+![aos.png](img/aos.png)
+
 
 **Automate the Boring Stuff with Python**
 
@@ -75,10 +80,7 @@ https://greenteapress.com/wp/think-python-2e/ (free)
 In general, all (free) books from [Green Tea Press](https://greenteapress.com/) are quite good!
 
 
-
-
-
-
+[Artificial Inteligence](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/)
 
 
 

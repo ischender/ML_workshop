@@ -65,6 +65,13 @@ material and notes for my **ML workshop**, from "almost not a programmer" to "im
 
 [Cats vs. Dogs with CNN](https://drive.google.com/open?id=1Cihy9Dlt_4BMIKvsej8Ut0E3USj4V2hK)
 
+Last minute stuff:
+
+[Word Embeddings](https://colab.research.google.com/drive/1uYWuWl7AiCJehQRUlD0HOWKgfVETXyK7)
+
+Practice:
+
+[Let's try together](https://colab.research.google.com/drive/1X9bQuQAkNVBj9LqQtxZyeigcDAg350Xb)
 
 Advanced notebooks, to show what's possible
 
