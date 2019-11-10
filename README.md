@@ -72,7 +72,7 @@ Last minute stuff:
 
 [Word Embeddings](https://colab.research.google.com/drive/1uYWuWl7AiCJehQRUlD0HOWKgfVETXyK7)
 
-Practice:
+### Practice:
 
 [Let's try together](https://colab.research.google.com/drive/1X9bQuQAkNVBj9LqQtxZyeigcDAg350Xb)
 
